@@ -1,0 +1,29 @@
+{
+	"name": "aqa-advanced1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"prepare": "husky"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/chistilinad/aqa-advanced1.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"bugs": {
+		"url": "https://github.com/chistilinad/aqa-advanced1/issues"
+	},
+	"homepage": "https://github.com/chistilinad/aqa-advanced1#readme",
+	"devDependencies": {
+		"@eslint/js": "^10.0.1",
+		"eslint": "^10.14.0",
+		"globals": "^17.14.0",
+		"husky": "^9.1.7",
+		"prettier": "^3.9.10"
+	}
+}
